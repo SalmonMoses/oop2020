@@ -1,14 +1,42 @@
 question_data = [
-{"text": "A slug's blood is green.", "answer": "True"},
-{"text": "The loudest animal is the African Elephant.", "answer": "False"},
-{"text": "Approximately one quarter of human bones are in the feet.", "answer": "True"},
-{"text": "The total surface area of a human lungs is the size of a football pitch.", "answer": "True"},
-{"text": "In West Virginia, USA, if you accidentally hit an animal with your car, you are free to take it home to eat.", "answer": "True"},
-{"text": "In London, UK, if you happen to die in the House of Parliament, you are entitled to a state funeral.", "answer": "False"},
-{"text": "It is illegal to pee in the Ocean in Portugal.", "answer": "True"},
-{"text": "You can lead a cow down stairs but not up stairs.", "answer": "False"},
-{"text": "Google was originally called 'Backrub'.", "answer": "True"},
-{"text": "Buzz Aldrin's mother's maiden name was 'Moon'.", "answer": "True"},
-{"text": "No piece of square dry paper can be folded in half more than 7 times.", "answer": "False"},
-{"text": "A few ounces of chocolate can to kill a small dog.", "answer": "True"}
+    {
+        "question": "5-ий Стандарт мови розмітки гіпертексту  HTML5 був оприлюднений у 2014 році", 
+        "correct_answer": "Y"
+    },
+    {
+        "question": "Перша помилка комп'ютера була ініційована несправними проводами",
+        "correct_answer": "N"
+    },
+    {
+        "question": "FLAC є скороченою назвою 'вільний аудіокодек без втрат'.",
+        "correct_answer": "Y"
+    },
+    {
+        "question": "В системі Windows коди програм можуть бути скомпілованими в *.EXE файли. Потім, цей файл може бути виконаний на будь-якої машині",
+        "correct_answer": "N"
+    },
+    {
+        "question": "Лінус Торвальдс створив Linux і Git.",
+        "correct_answer": "Y"
+    },
+    {
+        "question": "Мова програмування 'Python' базується на модифікованій версії 'JavaScript'",
+        "correct_answer": "Y"
+    },
+    {
+        "question": "Компанія AMD першою розробила 64-bit процесор для ринку.",
+        "correct_answer": "Y"
+    },
+    {
+        "question": "'HTML' можна перекласти як мова розмітки гіпертексту.",
+        "correct_answer": "Y"
+    },
+    {
+        "question": "У більшості мов програмування оператор ++ еквівалентний оператору '+= 1'.",
+        "correct_answer": "Y"
+    },
+    {
+        "question": "ПК IBM PC використовував мікропроцесор Intel 8008 з тактовою частотою 4,77 МГц та 8 кілобайтами пам'яті.",
+        "correct_answer": "N"
+    }
 ]
